@@ -5,6 +5,9 @@ Name: James Barry
 
 ONID ID: barryj
 
+NOTE TO GRADER: I made a lot more pages than required of me. I only pushed the ones the assignment asked me to.
+Please check my website below to see everything I created.
+
 Link to my CS 290 page: http://people.oregonstate.edu/~barryj/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
